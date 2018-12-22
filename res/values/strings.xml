@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">NataliShopApp</string>
+    <string name="sign_in">sign in</string>
+    <string name="home_page">home</string>
+    <string name="shopping_cart">shopping cart</string>
+    <string name="purchases_history">purchases history</string>
+    <string name="selling_history">selling history</string>
+    <string name="product_management">products management</string>
+    <string name="settings">settings</string>
+    <string name="about">about</string>
+    <string name="title_activity_login">sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">SIGN IN</string>
+    <string name="action_sign_in_short">SIGN IN</string>
+    <string name="action_sign_up">SIGN UP</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is invalid</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_category">Category</string>
+    <string name="title_activity_detail">Product Detail</string>
+    <string name="title_activity_shoppingcart">Shopping Cart</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_signup">Sign Up</string>
+    <string name="title_activity_purchaseshistory">Purchases History</string>
+    <string name="title_activity_sellinghistory">Selling History</string>
+    <string name="title_activity_productmanagement">Products Management</string>
+    <string name="title_activity_addproduct">Add Product</string>
+    <string name="title_activity_editproduct">Edit Product</string>
+    <string name="title_activity_payment">Payment</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string name="search">search</string>
+    <string name="code_no">Code No. : </string>
+    <string name="shipping">Shipping: </string>
+    <string name="invite_to_sign_up">Don\'t have an account?</string>
+    <string name="about_text">"Welcome to NataliShopApp!
+
+The place where you will find the special bathing suit tailor made for you according to your measurements.
+
+The store was established for those seamstresses who specialize in consonants and tailoring custom swimwear,
+and to you - buyers, in order to match the most appropriate and beautiful bathing suit at a reasonable price.
+
+All you have to do in order to start shopping is to sign up at the store, browse the products offered for sale and buy.
+
+So go ahead - good luck and a pleasant purchase! :)"</string>
+    <string name="contact_text">contact us! - click the button</string>
+    <string name="buy_it_now">BUY IT NOW</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="prompt_address">Address</string>
+    <string name="prompt_first_name">First name</string>
+    <string name="prompt_last_name">Last name</string>
+    <string name="prompt_mobile_phone">Mobile phone</string>
+    <string name="prompt_bank_account">Bank account</string>
+    <string name="shipping_cost">Shipping Cost (NIS)</string>
+    <string name="store_name">Store name</string>
+    <string name="prompt_account_nomber">Account No.</string>
+    <string name="prompt_bank_nomber">Bank No.</string>
+    <string name="action_settings">Settings</string>
+    <string name="total_price">Total price:</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="add_product">ADD PRODUCT</string>
+    <string name="product_name">Product name</string>
+    <string name="product_description">Product description</string>
+    <string name="product_category">Product category</string>
+    <string name="product_code_number">Product code no.:</string>
+    <string name="product_price">Product price</string>
+    <string name="product_image">Product image</string>
+    <string name="product_colors">Product colors</string>
+    <string name="green">Green</string>
+    <string name="yellow">Yellow</string>
+    <string name="blue">Blue</string>
+    <string name="red">Red</string>
+    <string name="pink">Pink</string>
+    <string name="orange">Orange</string>
+    <string name="black">Black</string>
+    <string name="white">White</string>
+    <string name="prompt_card_number">Card number</string>
+    <string name="prompt_year_card">YY</string>
+    <string name="prompt_month_card">MM</string>
+    <string name="prompt_security_code">Security code</string>
+    <string name="action_pay_now">PAY NOW</string>
+    <string name="shipping_address">Shipping Address:</string>
+    <string name="number_of_items">Number of items:</string>
+    <string name="seller">Seller:</string>
+    <string name="view_in_cart">VIEW IN CART</string>
+    <string name="log_off">log off</string>
+
+    <string-array name="product_categoryArray">
+        <item></item>
+        <item>bikini</item>
+        <item>one-piece</item>
+        <item>brazilian</item>
+        <item>dresses</item>
+    </string-array>
+
+</resources>

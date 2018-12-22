@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/border"
+    android:paddingTop="@dimen/border"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.natali.natalishopapp.CategoryActivity"
+    tools:showIn="@layout/activity_main">
+
+    <TextView
+        android:id="@+id/bikini_imageView"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/border0"
+        android:layout_marginBottom="@dimen/border3"
+        android:layout_weight="0.25"
+        android:background="@drawable/cover_b" />
+
+    <TextView
+        android:id="@+id/one_imageView"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/border0"
+        android:layout_marginBottom="@dimen/border3"
+        android:layout_weight="0.25"
+        android:background="@drawable/cover_s" />
+
+    <TextView
+        android:id="@+id/brazilian_imageView"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/border0"
+        android:layout_marginBottom="@dimen/border3"
+        android:layout_weight="0.25"
+        android:background="@drawable/cover_r" />
+
+    <TextView
+        android:id="@+id/dress_imageView"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/border0"
+        android:layout_weight="0.25"
+        android:background="@drawable/cover_d" />
+
+</LinearLayout>

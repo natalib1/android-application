@@ -1,0 +1,50 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.natali.natalishopapp.MainActivity">
+
+    <item
+        android:id="@+id/action_icon_shopping_cart"
+        android:icon="@drawable/ic_action_cart"
+        android:orderInCategory="1"
+        android:title="@string/shopping_cart"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/user_id"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sign_in"
+        android:orderInCategory="101"
+        android:title="@string/sign_in"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_log_off"
+        android:orderInCategory="102"
+        android:title="@string/log_off"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_shopping_cart"
+        android:orderInCategory="103"
+        android:title="@string/shopping_cart" />
+    <item
+        android:id="@+id/action_purchases_history"
+        android:orderInCategory="104"
+        android:title="@string/purchases_history"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_selling_history"
+        android:orderInCategory="105"
+        android:title="@string/selling_history"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_product_management"
+        android:orderInCategory="106"
+        android:title="@string/product_management"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="107"
+        android:title="@string/about"
+        app:showAsAction="never" />
+</menu>
